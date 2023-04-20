@@ -124,6 +124,12 @@ Mas não esteja possível visualizar todas as informações deste produto na tel
 Então este produto não deve ser possível adicionar ao carrinho.
 
 
+Pipeline 
+==================
+<p align="center">
+ <img src="https://i.ibb.co/b7CMW7S/Captura-de-Tela-2023-04-20-a-s-18-48-55.png" alt=""  width="1280" height="720" /> 
+</p>
+
 ```
 ```
 [0]: https://code.visualstudio.com/download
