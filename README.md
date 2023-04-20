@@ -66,7 +66,7 @@ Abrindo o projeto em seu Vscode
 
 Com o Visual Studio code aberto em seu computador, navegue para abrir o projeto seguindo exemplo abaixo:
 
-* Clique no link para visualizar o exempplo [Visual Studio Code][4]
+* Clique no link para visualizar o exemplo [Visual Studio Code][4]
 
 Em seguida, abra o terminal e digite:
 ```
@@ -77,7 +77,7 @@ npm install
 
 Para rodar os seus testes no Chrome, você utilizará o seguinte comando a baixo:
 ```
-npx cypress oepn
+npx cypress open
 ```
 Para rodar em modo CLI, você utilizará o seguinte comando abaixo:
 ```
