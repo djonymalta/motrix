@@ -11,6 +11,6 @@ declare namespace Cypress {
 }
 
 Cypress.Commands.add('login', () => {
-    cy.visit('/login')
+    cy.visit('/')
 
 })

@@ -9,13 +9,8 @@
   "author": "DJONY MALTA",
   "license": "ISC",
   "devDependencies": {
-    "@types/faker": "^6.6.9",
     "@types/node": "^18.15.11",
-    "cypress": "^9.7.0",
-    "cypress-iframe": "^1.0.1",
-    "cypress-plugin-tab": "^1.0.5",
-    "cypress-xpath": "^2.0.1",
-    "faker": "^6.6.6",
+    "cypress": "^9.7.0",  
     "typescript": "^5.0.4"
   }
 }
