@@ -7,7 +7,7 @@ const PRODUTO = {
 
 const CARRINHO = {
   botaocarrinho: ".showcart",
-  fazercheckout: 'button[id="top-cart-btn-checkout"]',
+  fazercheckout: '.checkout-methods-items > :nth-child(1) > .action',
 };
 
 const FORMULARIO = {

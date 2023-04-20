@@ -5,12 +5,13 @@
   "main": "index.js",
   "scripts": {
     "cy:run": "npx cypress run --headless --browser chrome --config defaultCommandTimeout=10000"
+ 
   },
   "author": "DJONY MALTA",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^18.15.11",
-    "cypress": "^9.7.0",  
+    "cypress": "^9.7.0",
     "typescript": "^5.0.4"
   }
 }
