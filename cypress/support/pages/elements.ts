@@ -7,12 +7,13 @@ const PRODUTO = {
 
 const CARRINHO = {
   botaocarrinho: ".showcart",
+  proceedtocheckout: "cy.get('#top-cart-btn-checkout')",
   fazercheckout: '.checkout-methods-items > :nth-child(1) > .action',
 };
 
 const FORMULARIO = {
   email: "#customer-email",
-  primeiroNome: 'input[name="firstname"',
+  primeiroNome: 'input[name="firstname"]',
   ultimoNome: 'input[name="lastname"',
   companhia: 'input[name="company"',
   enderecoCampo1: 'input[name="street[0]"',
