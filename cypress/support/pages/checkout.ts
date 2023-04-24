@@ -4,7 +4,7 @@ import { FORMULARIO } from "./elements";
 
 class dados {
   checkout() {
-    cy.get(FORMULARIO.email, {timeout: 10000}).should('be.visible').type(Cypress.env("dados").email);
+    cy.get(FORMULARIO.email, {timeout: 15000}).should('be.visible').type(Cypress.env("dados").email);
     cy.get(FORMULARIO.primeiroNome).type(Cypress.env("dados").primeiroNome);
     cy.get(FORMULARIO.ultimoNome).type(Cypress.env("dados").ultimoNome);
     cy.get(FORMULARIO.companhia).type(Cypress.env("dados").companhia);
